@@ -4,7 +4,7 @@ A responsive Movie Explorer web application built with **React + Vite + Tailwind
 
 ## Live Link
 
-https://www.tvmaze.com/api
+https://movie-explorer-ten-omega.vercel.app/
 
 ## Features
 
